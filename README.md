@@ -23,7 +23,7 @@ The dashboard provides insights into:
 | File | Description |
 |------|-------------|
 | `Blinkit_Dashboard.pbix` | Power BI report file |
-| `Blinkit Grocery Data.xlsx` | The dataset file |
+| `Blinkit Grocery Data.xlsx` | Raw data used for the analysis |
 | `dashboard_screenshot.png` | Visual preview of the dashboard |
 | `README.md` | This documentation |
 
