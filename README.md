@@ -1,5 +1,5 @@
 # Blinkit-Sales-Dashboard-A-Power-BI-Case-Study
-# 🛒 Blinkit Grocery Sales Dashboard – Power BI
+## 🛒 Blinkit Grocery Sales Dashboard – Power BI
 
 This Power BI project visualizes and analyzes Blinkit Grocery Sales Data to uncover business insights and enhance strategic decision-making. The dashboard presents a comprehensive view of sales trends, product performance, customer behavior, and key operational metrics.
 ## 📊 Dashboard Overview
